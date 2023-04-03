@@ -9,4 +9,4 @@
 - 😄 Pronouns: None, I am God.
 - ⚡ Fun fact: Whether or not you find a fact to be fun depends on whether or not you understand the fact.
 
-[![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithca)](https://github.com/anuraghazra/github-readme-stats)
+[![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithca&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
