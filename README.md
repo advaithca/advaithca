@@ -8,3 +8,5 @@
 - 📫 How to reach me: Look to the sky and yell out my name. Jk, email me at advaith2904002@gmail.com
 - 😄 Pronouns: None, I am God.
 - ⚡ Fun fact: Whether or not you find a fact to be fun depends on whether or not you understand the fact.
+
+[![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithca)](https://github.com/anuraghazra/github-readme-stats)
