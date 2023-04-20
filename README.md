@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on everything under the sun
-- 🌱 I’m currently learning about everything under the sun
+- 🌱 I’m currently learning a bit of Ruby on Rails
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anhything
