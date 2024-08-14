@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
-- 📫 How to reach me: Look to the sky and yell out my name. Jk, email me at gmail@advaithca.com (Yeah, I don't use gmail, gmail uses me.)
-- 😄 Pronouns: None, I am God.
+- 📫 How to reach me: Look to the sky and yell out my name. Jk, email me at advaith29042002@gmail.com
+- 😄 Pronouns: He/Him. But I can't control what you call me.
 - ⚡ Fun fact: No fact is fun, learn to find the bleakness of life interesting and fun.
 
 [![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithca&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
